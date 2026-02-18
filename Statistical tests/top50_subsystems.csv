@@ -1,0 +1,12 @@
+subsystem,associated_genes
+Pyrimidine synthesis,PKM
+Nucleotide interconversion,GM20390; NME2; NME3; NME6; NME7
+Tryptophan metabolism,KYNU
+Fructose and mannose metabolism,PFKL
+Unassigned,PFKL
+Fatty acid oxidation,ACSL1; ACSL3; ACSL5
+Folate metabolism,MTHFD1; MTHFD1L; MTHFD2
+Glycolysis/gluconeogenesis,ALDOART2; ALDOB; ALDOC
+Pentose phosphate pathway,TALDO1
+Nucleotide salvage pathway,APRT
+Purine catabolism,ITPA

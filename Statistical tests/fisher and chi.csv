@@ -1,0 +1,84 @@
+"subsystem","p<0.05_Pos","p<0.05_Neg","p>0.05_Pos","p>0.05_Neg","a","b","c","d","chi_p","fisher_p"
+"Alanine and aspartate metabolism",4,1,6,1,4,6,1,1,1,1
+"Aminosugar metabolism",6,0,10,1,6,10,0.5,1,1,1
+"Androgen and estrogen synthesis and metabolism",0,1,1,0,0.5,1,1,0.5,1,1
+"Arachidonic acid metabolism",0,0,1,1,0.5,1,0.5,1,1,1
+"Arginine and Proline Metabolism",5,4,8,1,5,8,4,1,0.292584140273833,0.294117647058823
+"Bile acid synthesis",15,1,30,15,15,30,1,15,0.0743546155747972,0.046984928034071
+"Biotin metabolism",3,0,2,0,3,2,0.5,0.5,1,1
+"Blood group synthesis",25,0,0,0,25,0.5,0.5,0.5,1,1
+"Butanoate metabolism",1,0,1,1,1,1,0.5,1,1,1
+"Cholesterol metabolism",7,5,22,3,7,22,5,3,0.104057350470177,0.0829016872660136
+"Chondroitin sulfate degradation",3,0,25,0,3,25,0.5,0.5,1,1
+"Citric acid cycle",2,0,10,8,2,10,0.5,8,0.960024850186151,0.494736842105263
+"CoA catabolism",1,1,1,1,1,1,1,1,1,1
+"CoA synthesis",6,0,4,3,6,4,0.5,3,0.394399946536601,0.192307692307692
+"Cysteine Metabolism",0,0,3,1,0.5,3,0.5,1,1,1
+"Cytochrome metabolism",3,0,0,0,3,0.5,0.5,0.5,1,1
+"D-alanine metabolism",1,0,0,0,1,0.5,0.5,0.5,1,1
+"Eicosanoid metabolism",3,1,14,7,3,14,1,7,0.999999999999999,1
+"Fatty acid oxidation",33,15,176,29,33,176,15,29,0.00925118578589787,0.00977953467261871
+"Fatty acid synthesis",7,0,20,2,7,20,0.5,2,1,1
+"Folate metabolism",12,2,21,4,12,21,2,4,1,1
+"Fructose and mannose metabolism",13,3,4,0,13,4,3,0.5,0.999999999999999,1
+"Galactose metabolism",5,1,5,3,5,5,1,3,0.797816662157846,0.580419580419581
+"Glutamate metabolism",4,3,8,4,4,8,3,4,1,1
+"Glutathione metabolism",4,2,8,2,4,8,2,2,1,0.604395604395604
+"Glycerophospholipid metabolism",16,4,16,6,16,16,4,6,0.849322019462753,0.722529283504893
+"Glycine, serine, alanine and threonine metabolism",6,0,16,3,6,16,0.5,3,0.999999999999998,0.553913043478261
+"Glycolysis/gluconeogenesis",28,9,2,1,28,2,9,1,1,1
+"Glycosphingolipid metabolism",0,0,2,0,0.5,2,0.5,0.5,1,1
+"Glyoxylate and dicarboxylate metabolism",3,0,3,0,3,3,0.5,0.5,1,1
+"Heme degradation",0,0,2,0,0.5,2,0.5,0.5,1,1
+"Heme synthesis",0,0,3,0,0.5,3,0.5,0.5,1,1
+"Heparan sulfate degradation",0,0,24,0,0.5,24,0.5,0.5,1,1
+"Histidine metabolism",2,0,4,0,2,4,0.5,0.5,1,1
+"Hyaluronan metabolism",3,0,2,0,3,2,0.5,0.5,1,1
+"Inositol phosphate metabolism",18,0,5,0,18,5,0.5,0.5,0.999999999999998,1
+"Keratan sulfate degradation",3,0,57,0,3,57,0.5,0.5,0.999999999999999,1
+"Keratan sulfate synthesis",25,0,16,0,25,16,0.5,0.5,1,1
+"Limonene and pinene degradation",3,0,0,0,3,0.5,0.5,0.5,1,1
+"Lysine metabolism",0,0,8,2,0.5,8,0.5,2,1,1
+"Methionine and cysteine metabolism",4,3,6,1,4,6,3,1,0.554113130069446,0.559440559440559
+"Miscellaneous",11,3,9,3,11,9,3,3,0.999999999999999,1
+"N-glycan degradation",11,0,1,0,11,1,0.5,0.5,1,1
+"N-glycan synthesis",54,0,7,0,54,7,0.5,0.5,1,1
+"NAD metabolism",9,4,3,0,9,3,4,0.5,1,0.528571428571428
+"Nucleotide interconversion",65,35,41,27,65,41,35,27,0.647256958645497,0.625413579094318
+"Nucleotide salvage pathway",3,0,0,0,3,0.5,0.5,0.5,1,1
+"O-glycan synthesis",2,0,7,0,2,7,0.5,0.5,1,1
+"Other",1,0,6,3,1,6,0.5,3,1,1
+"Oxidative phosphorylation",1,0,3,0,1,3,0.5,0.5,1,1
+"Pentose phosphate pathway",11,11,11,3,11,11,11,3,0.172682041418748,0.160048954017615
+"Phenylalanine metabolism",3,1,0,0,3,0.5,1,0.5,1,1
+"Phosphatidylinositol phosphate metabolism",6,3,11,4,6,11,3,4,1,1
+"Propanoate metabolism",4,1,4,1,4,4,1,1,1,1
+"Purine catabolism",17,6,5,1,17,5,6,1,0.999999999999999,1
+"Purine synthesis",5,1,1,1,5,1,1,1,1,0.464285714285714
+"Pyrimidine catabolism",12,5,9,6,12,9,5,6,0.797654033465389,0.711952894520482
+"Pyrimidine synthesis",7,8,4,2,7,4,8,2,0.729775155917416,0.635117204776647
+"Pyruvate metabolism",7,0,10,2,7,10,0.5,2,1,0.508771929824562
+"ROS detoxification",0,0,6,0,0.5,6,0.5,0.5,0.999999999999999,1
+"Sphingolipid metabolism",15,0,24,2,15,24,0.5,2,0.999999999999998,0.524390243902439
+"Starch and sucrose metabolism",17,5,2,0,17,2,5,0.5,1,1
+"Steroid metabolism",10,0,29,4,10,29,0.5,4,0.920108947369109,0.557896442751803
+"Taurine and hypotaurine metabolism",1,1,4,0,1,4,1,0.5,0.938162859018113,0.333333333333333
+"Tetrahydrobiopterin metabolism",4,4,4,1,4,4,4,1,0.620061420540505,0.564879564879565
+"Thiamine metabolism",1,0,1,0,1,1,0.5,0.5,1,1
+"Transport, extracellular",4,0,3,1,4,3,0.5,1,1,1
+"Transport, lysosomal",1,0,0,0,1,0.5,0.5,0.5,1,1
+"Transport, mitochondrial",1,1,5,2,1,5,1,2,1,1
+"Transport, nuclear",1,1,0,0,1,0.5,1,0.5,1,1
+"Transport, peroxisomal",0,1,1,0,0.5,1,1,0.5,1,1
+"Triacylglycerol synthesis",7,0,0,0,7,0.5,0.5,0.5,1,1
+"Tryptophan metabolism",7,0,10,5,7,10,0.5,5,0.385842067638992,0.134768740031898
+"Tyrosine metabolism",9,3,24,1,9,24,3,1,0.173756229386534,0.0907714437126201
+"Ubiquinone synthesis",1,0,0,0,1,0.5,0.5,0.5,1,1
+"Unassigned",23,10,48,24,23,48,10,24,0.933507318496821,0.825014168396881
+"Urea cycle",7,1,18,6,7,18,1,6,0.804996946759651,0.646416245971307
+"Valine, leucine, and isoleucine metabolism",1,3,28,13,1,28,3,13,0.238232495677974,0.121212121212121
+"Vitamin A metabolism",3,2,8,1,3,8,2,1,0.56017926063151,0.505494505494505
+"Vitamin B2 metabolism",1,1,0,0,1,0.5,1,0.5,1,1
+"Vitamin B6 metabolism",1,0,4,2,1,4,0.5,2,1,1
+"Vitamin C metabolism",0,0,1,0,0.5,1,0.5,0.5,1,1
+"beta-Alanine metabolism",1,0,1,0,1,1,0.5,0.5,1,1
