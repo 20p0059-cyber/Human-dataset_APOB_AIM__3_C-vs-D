@@ -1,0 +1,5 @@
+Unnamed: 0,wilcox_stat,wilcox_pval,cohens_d,adjusted_pval,metadata_r_id,reaction_name,formula,associated_genes,subsystem,EC_number,confidence
+LDH_L_neg,1052.0,4.78677130107945e-06,1.1443459194129957,0.0002369470844512,LDH_L,L-lactate dehydrogenase,"1.00 * Nicotinamide adenine dinucleotide [c] + 1.00 * (S)-lactate [c] --> 1.00 * proton [c] + 1.00 * pyruvate [c] + 1.00 * Nicotinamide adenine dinucleotide - reduced [c]
+LDHA; LDHAL6B; LDHB; LDHC; UEVLD",LDHA; LDHAL6B; LDHB; LDHC; UEVLD,Glycolysis/gluconeogenesis,1.1.1.27,0.0
+r1459_pos,929.0,0.0014399648258234,0.6549213244310435,0.0151776937689618,r1459,Transport reaction,"1.00 * Diphosphate [c] --> 1.00 * Diphosphate [n]
+No genes",,"Transport, nuclear",1.3.1.27,0.0
